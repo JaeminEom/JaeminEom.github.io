@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Jaemin Eom"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : >
   Ph.D Candidtate working with Prof. Kyu-Jin Cho in Seoul National University  
   Expected to Graduate in February 2025
