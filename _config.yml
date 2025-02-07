@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "Jaemin Eom"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Ph.D Candidtate working with Prof. Kyu-Jin Cho in Seoul National University / Expected to Graduate in February 2025"
+  location         : "Seoul, Republic of Korea"
+  email            : "jaemineom81@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
