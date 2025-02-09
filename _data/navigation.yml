@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Home"
-    url: https://jaemineom.github.io/
+    url: /
   - title: "About"
-    url: https://jaemineom.github.io//about/
+    url: /about/
   - title: "Publications"
-    url: https://jaemineom.github.io//publications/
+    url: /publications/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

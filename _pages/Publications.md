@@ -1,61 +1,47 @@
 ---
 permalink: /publications/
 title: ""
+layout : single
 classes: wide
+author_profile: true
 ---
-International Journals
----
-
-J.6| Kyu Bum Kim, Hyungmin Choi, <font color="#213363"><b>Byungchul Kim</b></font>, Brian Byunghyun Kang, Sangheui Cheon, and Kyu-Jin Cho, "Exo-Glove Poly III: Grasp Assistance by Modulating Thumb and Finger Motion Sequence with a Single Actuator," in **Soft Robotics (I.F. 7.9, JCI Top 20%)**, 2025.
-
-J.5| <font color="#213363"><b>Byungchul Kim</b></font>, Hyungmin Choi, Kyubum Kim, Sejin Jeong, and Kyu-Jin Cho, "Exo-Glove Shell: A Hybrid Exo-Glove for the Thumb Opposition with an Under-Actuated Tendon-Driven System," in **Soft Robotics (I.F. 7.9, JCI Top 20%)**, Aug. 2024. [[pdf]][SoRoPDF][[Supplementary]][SoRoSM][[video]][SoRoVideo][[site]][ExoShell_Supp]
-
-J.4| Jaehyun Lee, <font color="#213363"><b>Byungchul Kim</b></font>, Kyu-Jin Cho, and Yong-Lae Park, "Underactuated Robotic Gripper with Fiber-Optic Force Sensing Tendons", in **IEEE Robotics and Automation Letters (I.F 5.2, JCI Top 20%)**, vol. 8, Issue 11, pp. 7607 - 7614, Nov. 2023. [[pdf]][RAL_pdf] [[site]][RAL_link]
-
-J.3|  <font color="#213363"><b>Byungchul Kim</b></font>, Useok Jeong, Brian Byunghyun Kang, and Kyu-Jin Cho, "Slider-Tendon Linear Actuator with Under-actuation and Fast-connection for Soft Wearable Robots ", in **IEEE/ASME Transactions on Mechatronics (I.F 6.4, JCI Top 10%)**, vol. 26, no. 6, pp. 2932-2943, Dec. 2021. [[pdf]][Tmech_pdf] [[site]][Tmech_link] 
-
-J.2| <font color="#213363"><b>Byungchul Kim</b></font>, Jiwon Ryu, and Kyu-Jin Cho, "Joint Angle Estimation of a Tendon-Driven Soft Wearable Robot through a Tension and Stroke Measurement," in **Sensors (I.F 3.9, JCI Top 25%)**, 20.10 (2020): 2852. [[pdf]][Sensors_pdf] [[site]][Sensors_link]
-
-J.1| <font color="#213363"><b>Byungchul Kim</b></font>, Hyunki In, Daeyoung Lee, Kyu-Jin Cho, "Development and assessment of a hand assist device: GRIPIT", in **Journal of NeuroEngineering and Rehabilitation (I.F 5.1, JIF Top 5%)**, 14.1 (2017): 15. [[pdf]][JNER_pdf] [[site]][JNER_link]
-
-Computer Science Conferences
+International Journals <span style="font-size:18px; font-weight:normal">(* denotes equal contribution.)</span>
 ---
 
-CS.1| Tsun-Hsuan Wang, Juntian Zheng, Pingchuan Ma, Yilun Du,  <font color="#213363"><b>Byungchul Kim</b></font>, Andrew Everett Spielberg, Joshua B. Tenenbaum, Chuang Gan, and Daniela Rus, "DiffuseBot: Breeding Soft Robots With Physics-Augmented Generative Diffusion Models," in **Neural Information Processing Systems (NeurIPS 2023)**. [[pdf]][NeruIPS2023_pdf] [[video]][NeruIPSvideo] [[site]][NeruIPSsite] <font color="#17594A"><b>**Oral presentation**</b></font><br>
+J.4| <font color="#213363"><b>Jaemin Eom</b></font>, Sung Yol Yu, Woongbae Kim, Chunghoon Park, Kristine Yoonseo Lee, and Kyu-Jin Cho, "MOGrip: Gripper for multiobject grasping in pick-and-place tasks using translational movements of fingers," <font color="#17594A"><b>Science Robotics (I.F. 26.1)</b></font>, vol. 9, eado3939, 2024. <br> [[Paper]][MOGrip Paper][[Video]][MOGrip Video][[Project Page]][Link]
+
+J.3| Yuna Yoo*, <font color="#213363"><b>Jaemin Eom*</b></font>, MinJo Park, and Kyu-Jin Cho, "Compliant Suction Gripper with Seamless Deployment and Retraction for Robust Picking against Depth and Tilt Errors," <font color="#17594A"><b>IEEE Robotics and Automation Letters (I.F. 4.6)</b></font>, vol.8, no.3, 2023. **(Co-first author)** <br> [[Paper]][MOGrip Paper][[Video]][Chameleon Video][[Project Page]][Link]
+
+J.2| Woongbae Kim, <font color="#213363"><b>Jaemin Eom</b></font>, and Kyu-Jin Cho, "A Dual-Origami Design that Enables the Quasisequential Deployment and Bending Motion of Soft Robots and Grippers," <font color="#17594A"><b>Advanced Intelligent Systems (I.F. 6.8)</b></font>, vol. 4, no. 3, 2021. <br> [[Paper]][Dual Morphing Paper][[Video]][Link][[Site]][Dual Morphing Site]
+
+J.1| Jun-Young Lee, <font color="#213363"><b>Jaemin Eom</b></font>, Sung Yol Yu, and Kyu-Jin Cho, "Customization Methodology for Conformable Grasping Posture of Soft Grippers by Stiffness Patterning," <font color="#17594A"><b>Frontiers in Robotics and AI</b></font>, vol. 7, 2020. <br> [[Paper]][Customization Paper][[Video]][Link][[Site]][Customization Site]
 
 Refereed Conference Paper
 ---
 
-C.3|  <font color="#213363"><b>Byungchul Kim*</b></font>, Tsun-Hsuan Wang*, and Daniela Rus, "Generative-AI-Driven Jumping Robot Design Using Diffusion Models," in 2025 IEEE International Conference on Robotics and Automation (ICRA). [[pdf]][ICRA2025_pdf] [[video]][ICRA2025_video]
-
-C.2|  Gregory Xie, Lillian Chin, <font color="#213363"><b>Byungchul Kim</b></font>, Rachel Holladay, and Daniela Rus, “Strong Compliant Grasps Using a Cable-Driven Soft Gripper”, IEEE/RSJ International Conference on Intelligent Robots and Systems, 2024.
-
-C.1|	<font color="#213363"><b>Byungchul Kim</b></font>, Useok Jeong, Brian Byunghyun Kang, and Kyu-Jin Cho, “Slider-Tendon Linear Actuator with Under actuation and Fast connection for Soft Wearable Robots”, International Conference on Advanced Intelligent Mechatronics, 2021.
+C.1| Jun-Young Lee, <font color="#213363"><b>Jaemin Eom</b></font>, Woo-Young Choi and Kyu-Jin Cho, "Soft LEGO: Bottom-up Design Platform for Soft Robotics," **2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, 2018, pp. 7513-7520. <br> [[Paper]][Link][[Video]][Soft LEGO Video][[Site]][Link]
 
 Papers Under Review / in Preparation
 ---
 
-R.3| Zhou Xian, Yiling Qiao, [...]  <font color="#213363"><b>Byungchul Kim</b></font>, [...] and Chuang Gan (among 51 authors), "Genesis: A Generative and Universal Physics Engine for Robotics and Beyond," in preparation. [[video]][Genesis_video][[site]][Genesis_link]
+R.2| <font color="#213363"><b>Jaemin Eom</b></font>, and Kyu-Jin Cho, "Manipulator Path Planning for Multi-Object Grasping in a Declutter Problem," in preparation.
 
-R.2| <font color="#213363"><b>Byungchul Kim</b></font>, Useok Jeong, and Kyu-Jin Cho, "Dual-Tendon Routing: Tendon Routing for Under-actuated Tendon-Driven Soft Hand-wearable Robot," IEEE Robotics and Automation Letters, submitted.
-
-R.1| <font color="#213363"><b>Byungchul Kim</b></font>, Useok Jeong, and Kyu-Jin Cho, "Exo-Glove Pinch: Soft Hand-wearable Robot Designed through the Analysis of the Constrained Tendon Routing," IEEE Robotics and Automation Letters, submitted.
+R.1| <font color="#213363"><b>Jaemin Eom</b></font>, Jaehyun Lee, and Kyu-Jin Cho, "Robotic Hand Design for Multi-Object Grasping of Column-Shaped Objects," in preparation.
 
 Patents
 ---
 
-P.3| Kyu-Jin Cho, <font color="#213363"><b>Byungchul Kim</b></font>, Daeyoung Lee, “PEN HOLDER”, US 9522562, US. [[site]][penholder_patent_link]
+P.5| Kyu-Jin Cho, <font color="#213363"><b>Jaemin Eom</b></font>, Yuna Yoo, MinJo Park, "Longitudinal Deployable Vacuum Suction Cup," <font color="#17594A"><b>PCT/KR2023/019352</b> </font> (Patent Application, filed on Nov. 28th, 2023). [[site]][Link]
 
-P.2| Kyu-Jin Cho, Hyunki In, Kyuhan Cho, <font color="#213363"><b>Byungchul Kim</b></font>, “PASSIVE VARIABLE TRANSMISSION FOR WIRE DRIVEN JOINT MECHANISM”, 10-11600270-0000, KR. <font color="#17594A"><b>**Technology transfer**</b> </font> [[site]][pvt_patent_link]
+P.4| Kyu-Jin Cho, Jun-Young Lee, <font color="#213363"><b>Jaemin Eom</b></font>, "Soft Block Unit Comprising Expanding Block and Bending Block," <font color="#17594A"><b>JP Patent 6620257</b></font> issued Nov. 22th, 2019. [[site]][Link]
 
-P.1| Kyu-Jin Cho, <font color="#213363"><b>Byungchul Kim</b></font>, Hyungmin Choi, “SLIDER TYPE TENDON DRIVEN ACTUATOR FOR UNDER-ACTUATION AND GLOVE TYPE WEARABLE ROBOT HAVING THE SAME ACTUATOR”, 2020/005275, Patent pending (PCT/KR).
+P.3| Kyu-Jin Cho, <font color="#213363"><b>Jaemin Eom</b></font>, Yuna Yoo, MinJo Park, “Longitudinal Deployable Vacuum Suction Cup,” <font color="#17594A"><b>KR Patent 10-2624036</b></font> issued Jan. 8th, 2024. [[site]][Link]
 
-Books
----
+P.2| Kyu-Jin Cho, <font color="#213363"><b>Jaemin Eom</b></font>, Sung Yol Yu, Woongbae Kim, “Gripper for Gripping Multi-Object with an Internal Storage,” <font color="#17594A"><b>KR Patent 10-2497956</b></font> issued Feb. 6th, 2023. [[site]][Link]
 
-B.1| Myungjoon Lim, Jiyoung Park, Kuem Ju Lee, Hyosun Kweon, <font color="#213363"><b>Byungchul Kim</b></font>, Kyu-Jin Cho, Hyun Choi, "Usability of a New Writing Assistive Device for Persons with Cervical Spinal Cord Injury," in Studies in health technology and informatics, 217 (2015): 710-717.
+P.1| Kyu-Jin Cho, Jun-Young Lee, <font color="#213363"><b>Jaemin Eom</b></font>, “Soft Block Unit Comprising Expanding Block and Bending Block,” <font color="#17594A"><b>KR Patent 101950654</b></font> issued Apr. 14th, 2019. [[site]][Link]
 
-Other conferences and Workshop Papers
+<!-- Other conferences and Workshop Papers
 ---
 
 O.15| Cedric Honnet, Yunyi Zhu, Martin Nisser, Chao Liu, <font color="#213363"><b>Byungchul Kim</b></font>, Jae Hun Seol, Jongho Lee, Daniela Rus, and Stefanie Mueller, “Laser-Etching Flexible Sensors for Robotic Touch Recognition," IEEE International Conference on Robotics and Automation, Late Braking Results, London, United Kingdom, May 2023. [[video]][SensorMIT]
@@ -86,46 +72,39 @@ O.3| <font color="#213363"><b>Byungchul Kim</b></font>, Daeyoung Lee, Kyu-Jin Ch
 
 O.2| <font color="#213363"><b>Byungchul Kim</b></font>, Hyunki In, Kyu-Jin Cho, Strap driven system for hand soft exoskeleton, International Biomedical Engineering Conference, Gwangju, Korea, November 2014.
 
-O.1| <font color="#213363"><b>Byungchul Kim</b></font>, Daeyoung Lee, Jisuk Kim, Hyunki In, Kyu-Jin Cho, Usability assessment of a glove type writing assistive device for people with spinal cord injury, Rehabilitation Engineering and Assistive Technology Society of Korea, Jeonju, Korea, April 2012.
+O.1| <font color="#213363"><b>Byungchul Kim</b></font>, Daeyoung Lee, Jisuk Kim, Hyunki In, Kyu-Jin Cho, Usability assessment of a glove type writing assistive device for people with spinal cord injury, Rehabilitation Engineering and Assistive Technology Society of Korea, Jeonju, Korea, April 2012. -->
 
-Theses and Dissertations
+Dissertation
 ---
 
-T.2| <font color="#213363"><b>Byungchul Kim</b></font>, “Tendon-Driven Hand Wearable Robot using Slider-Tendon Linear Actuator”, Doctoral Dissertation, Seoul National University, Seoul, Korea. [[pdf]][thesis_pdf]
+T.1| <font color="#213363"><b>Jaemin Eom</b></font>, "Multi-Object Grasping Using Finger-to-Palm Translation for Pick-and-Place Tasks," Seoul National University, Seoul, Korea. [[pdf]][Link]
 
-T.1| <font color="#213363"><b>Byungchul Kim</b></font>, “A user-friendly assistive glove for SCI people performing natural writing posture”, Master’s thesis, Seoul National University, Seoul, Korea.
 
-[Tmech_pdf]:https://github.com/bc-kim/bc-kim.github.io/blob/master/assets/Publications/Slider-Tendon_Linear_Actuator_With_Under-Actuation_and_Fast-Connection_for_Soft_Wearable_Robots.pdf
-[Tmech_link]: https://ieeexplore.ieee.org/document/9314058 
+International Articles
+---
 
-[Sensors_pdf]:https://github.com/bc-kim/bc-kim.github.io/blob/master/assets/Publications/Kim%2C%20Ryu%2C%20Cho%20-%202020%20-%20Joint%20Angle%20Estimation%20of%20a%20Tendon-driven%20Soft%20Wearable%20Robot%20through%20a%20Tension%20and%20Stroke%20Measurement.pdf
-[Sensors_link]: https://www.mdpi.com/718524 
+A.2| Featured in <font color="#213363"><b>Tech Xplore</b></font>, "Robotic gripper mimics human hand to move multiple objects together," on Jan. 3rd, 2025. [[Link]][MOGrip, Tech Xplore]
 
-[JNER_pdf]:https://github.com/bc-kim/bc-kim.github.io/blob/master/assets/Publications/Kim%20et%20al.%20-%202017%20-%20Development%20and%20assessment%20of%20a%20hand%20assist%20device%20GRIPIT.pdf
-[JNER_link]: https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-017-0223-4
+A.1| Featured in <font color="#213363"><b>IEEE Spectrum's 'Video Friday'</b></font>, Dec. 13th, 2024. [[Link]][MOGrip, Video Friday]
 
-[penholder_patent_link]: https://www.google.co.kr/patents/US9522562?dq=US+9,522,562+B2&hl=ko&sa=X&ved=0ahUKEwinpdrHyuzVAhVHXrwKHZx4B9cQ6AEIJDAA
-[pvt_patent_link]: https://patents.google.com/patent/KR101600270B1/ko
 
-[ExoShell_Supp]: https://sites.google.com/view/exo-gloveshell/
-[SensorMIT]: https://www.youtube.com/watch?v=o4CEsLRgKqg
 
-[RAL_link]: https://ieeexplore.ieee.org/abstract/document/10250947
-[RAL_pdf]: https://github.com/bc-kim/bc-kim.github.io/blob/master/assets/Publications/Underactuated_Robotic_Gripper_With_Fiber-Optic_Force_Sensing_Tendons.pdf
 
-[NeruIPSsite]:https://diffusebot.github.io/
-[NeruIPS2023_pdf]: https://github.com/bc-kim/bc-kim.github.io/blob/master/assets/Publications/10463_diffusebot_breeding_soft_robot.pdf
-[NeruIPSvideo]: https://www.youtube.com/watch?v=LSzasdvD3Ss
+[Link]: https://www.biorobotics.snu.ac.kr/
 
-[thesis_pdf]: https://github.com/bc-kim/bc-kim.github.io/blob/master/assets/Publications/Thesis_Paper.pdf
+[MOGrip, Video Friday]: https://spectrum.ieee.org/video-friday-mars-chopper
+[MOGrip, Tech Xplore]: https://techxplore.com/news/2025-01-robotic-gripper-mimics-human-multiple.html
 
-[SoRoPDF]: https://github.com/bc-kim/bc-kim.github.io/blob/master/assets/Publications/soro_main.pdf
-[SoRoSM]: https://github.com/bc-kim/bc-kim.github.io/blob/master/assets/Publications/soro_sm.pdf
-[SoRoVideo]: https://youtu.be/yM8G0V4FGkk
+[MOGrip Paper]: https://github.com/JaeminEom/JaeminEom.github.io/blob/main/assets/Publications/SciRo_MOGrip.pdf
+[MOGrip Video]: https://www.youtube.com/watch?v=qFD562zo4Vk
 
-[ICRA2025site]:https://diffusebot.github.io/
-[ICRA2025_pdf]: https://github.com/bc-kim/bc-kim.github.io/blob/master/assets/Publications/_ICRA__Generative_AI_Driven_Jumping_Robot_Design_Using_Diffusion_Models.pdf
-[ICRA2025_video]: https://youtu.be/seLBEMrhMjI
+[Chameleon Paper]: https://github.com/JaeminEom/JaeminEom.github.io/blob/main/assets/Publications/RAL_Chameleon.pdf
+[Chameleon Video]: https://www.youtube.com/watch?v=5f0qXYcE3nw
 
-[Genesis_video]: https://youtu.be/Uw_Y5dNYC1M
-[Genesis_link]: https://genesis-embodied-ai.github.io
+[Dual Morphing Paper]: https://github.com/JaeminEom/JaeminEom.github.io/blob/main/assets/Publications/AIS_Dual_Morphing.pdf
+[Dual Morphing Site]: https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202100176
+
+[Customization Paper]: https://github.com/JaeminEom/JaeminEom.github.io/blob/main/assets/Publications/Frontiers_Customization.pdf
+[Customization Site]: https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2020.00114/full
+
+[Soft LEGO Video]: https://www.youtube.com/watch?v=Uqj2QQZ8PMs
