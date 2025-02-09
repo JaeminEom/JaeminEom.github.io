@@ -124,7 +124,7 @@ author:
       url: "https://www.biorobotics.snu.ac.kr/"
     - label: "Download CV"
       icon: "far fa-file-pdf"
-      url: "https://github.com/JaeminEom/JaeminEom.github.io/blob/main/assets/CV/Jaemin_Eom_CV.docx"
+      url: "https://github.com/JaeminEom/JaeminEom.github.io/blob/main/assets/CV/Jaemin_Eom_CV.pdf"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -323,6 +323,13 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 assets:
   css:
