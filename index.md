@@ -1,10 +1,10 @@
 ---
 permalink: /
-# title: "Jaemin Eom"
+title: ""
 layout : single
 classes: wide
-
 author_profile: true
+
 # excerpt: "Ph.D Candidate at SNU (Seoul National University)"
 # header:
 #   overlay_image: /assets/images/Main.png
