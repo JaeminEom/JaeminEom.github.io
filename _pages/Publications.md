@@ -12,7 +12,7 @@ J.4| <font color="#213363"><b>Jaemin Eom</b></font>, Sung Yol Yu, Woongbae Kim, 
 
 J.3| Yuna Yoo*, <font color="#213363"><b>Jaemin Eom*</b></font>, MinJo Park, and Kyu-Jin Cho, "Compliant Suction Gripper with Seamless Deployment and Retraction for Robust Picking against Depth and Tilt Errors," <font color="#17594A"><b>IEEE Robotics and Automation Letters (I.F. 4.6)</b></font>, vol.8, no.3, 2023. **(Co-first author)** <br> [[Paper]][Chameleon Paper][[Video]][Chameleon Video][[Project Page]][Chameleon Project Page]
 
-J.2| Woongbae Kim, <font color="#213363"><b>Jaemin Eom</b></font>, and Kyu-Jin Cho, "A Dual-Origami Design that Enables the Quasisequential Deployment and Bending Motion of Soft Robots and Grippers," <font color="#17594A"><b>Advanced Intelligent Systems (I.F. 6.8)</b></font>, vol. 4, no. 3, 2021. <br> [[Paper]][Dual Morphing Paper][[Video]][Link]
+J.2| Woongbae Kim, <font color="#213363"><b>Jaemin Eom</b></font>, and Kyu-Jin Cho, "A Dual-Origami Design that Enables the Quasisequential Deployment and Bending Motion of Soft Robots and Grippers," <font color="#17594A"><b>Advanced Intelligent Systems (I.F. 6.8)</b></font>, vol. 4, no. 3, 2021. <br> [[Paper]][Dual Morphing Paper][[Video]][Dual Morphing Video]
 
 J.1| Jun-Young Lee, <font color="#213363"><b>Jaemin Eom</b></font>, Sung Yol Yu, and Kyu-Jin Cho, "Customization Methodology for Conformable Grasping Posture of Soft Grippers by Stiffness Patterning," <font color="#17594A"><b>Frontiers in Robotics and AI</b></font>, vol. 7, 2020. <br> [[Paper]][Customization Paper]
 
@@ -104,6 +104,7 @@ A.1| Featured in <font color="#213363"><b>IEEE Spectrum's 'Video Friday'</b></fo
 [Chameleon Project Page]: https://jaemineom.github.io/Project_Chameleon/
 
 [Dual Morphing Paper]: https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202100176
+[Dual Morphing Video]: https://youtu.be/ETTPPWHo0iE
 
 [Customization Paper]: https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2020.00114/full
 
