@@ -11,9 +11,8 @@ author_profile: true
 #   actions:
 #     - label: "Download CV"
 #       url: "https://github.com/bc-kim/bc-kim.github.io/blob/master/assets/CV/ByungchulKim-CV.pdf"
-# ---
-# **About me**
-# ---
+---
+## About me
 
 Hello! I am a Ph.D. candidate in the [Biorobotics Lab][BRL_link] at Seoul National University, working with Professor Kyu-Jin Cho, and I expect to graduate in February 2025. After graduation, I will work as a Postdoctorial Researcher at the [Soft Robotics Research Center (SRRC)][SRRC_link] at Seoul National University (SNU), continuing to work with Professor Kyu-Jin Cho in the Department of Mechanical Engineering.
 
