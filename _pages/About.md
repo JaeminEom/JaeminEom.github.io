@@ -14,14 +14,14 @@ author_profile: true
 #     - label: "Download CV"
 #       url: "https://github.com/bc-kim/bc-kim.github.io/blob/master/assets/CV/ByungchulKim-CV.pdf"
 ---
-## Bio
+<!-- ## Bio
 
 Hello! I am a Ph.D. candidate in the [Biorobotics Lab][BRL_link] at Seoul National University, working with Professor Kyu-Jin Cho, and I expect to graduate in February 2025.
 
 CV can be downloaded form [here][cv_link].
 
 [BRL_link]: https://www.biorobotics.snu.ac.kr/
-[cv_link]: https://github.com/JaeminEom/JaeminEom.github.io/blob/main/assets/CV/Jaemin_Eom_CV.pdf
+[cv_link]: https://github.com/JaeminEom/JaeminEom.github.io/blob/main/assets/CV/Jaemin_Eom_CV.pdf -->
 
 ## Research Interests
 

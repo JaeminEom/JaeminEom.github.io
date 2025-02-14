@@ -12,14 +12,14 @@ J.4| <font color="#213363"><b>Jaemin Eom</b></font>, Sung Yol Yu, Woongbae Kim, 
 
 J.3| Yuna Yoo*, <font color="#213363"><b>Jaemin Eom*</b></font>, MinJo Park, and Kyu-Jin Cho, "Compliant Suction Gripper with Seamless Deployment and Retraction for Robust Picking against Depth and Tilt Errors," <font color="#17594A"><b>IEEE Robotics and Automation Letters (I.F. 4.6)</b></font>, vol.8, no.3, 2023. **(Co-first author)** <br> [[Paper]][MOGrip Paper][[Video]][Chameleon Video][[Project Page]][Link]
 
-J.2| Woongbae Kim, <font color="#213363"><b>Jaemin Eom</b></font>, and Kyu-Jin Cho, "A Dual-Origami Design that Enables the Quasisequential Deployment and Bending Motion of Soft Robots and Grippers," <font color="#17594A"><b>Advanced Intelligent Systems (I.F. 6.8)</b></font>, vol. 4, no. 3, 2021. <br> [[Paper]][Dual Morphing Paper][[Video]][Link][[Site]][Dual Morphing Site]
+J.2| Woongbae Kim, <font color="#213363"><b>Jaemin Eom</b></font>, and Kyu-Jin Cho, "A Dual-Origami Design that Enables the Quasisequential Deployment and Bending Motion of Soft Robots and Grippers," <font color="#17594A"><b>Advanced Intelligent Systems (I.F. 6.8)</b></font>, vol. 4, no. 3, 2021. <br> [[Paper]][Dual Morphing Paper][[Video]][Link]
 
-J.1| Jun-Young Lee, <font color="#213363"><b>Jaemin Eom</b></font>, Sung Yol Yu, and Kyu-Jin Cho, "Customization Methodology for Conformable Grasping Posture of Soft Grippers by Stiffness Patterning," <font color="#17594A"><b>Frontiers in Robotics and AI</b></font>, vol. 7, 2020. <br> [[Paper]][Customization Paper][[Video]][Link][[Site]][Customization Site]
+J.1| Jun-Young Lee, <font color="#213363"><b>Jaemin Eom</b></font>, Sung Yol Yu, and Kyu-Jin Cho, "Customization Methodology for Conformable Grasping Posture of Soft Grippers by Stiffness Patterning," <font color="#17594A"><b>Frontiers in Robotics and AI</b></font>, vol. 7, 2020. <br> [[Paper]][Customization Paper]
 
 Refereed Conference Paper
 ---
 
-C.1| Jun-Young Lee, <font color="#213363"><b>Jaemin Eom</b></font>, Woo-Young Choi and Kyu-Jin Cho, "Soft LEGO: Bottom-up Design Platform for Soft Robotics," **2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, 2018, pp. 7513-7520. <br> [[Paper]][Link][[Video]][Soft LEGO Video][[Site]][Link]
+C.1| Jun-Young Lee, <font color="#213363"><b>Jaemin Eom</b></font>, Woo-Young Choi and Kyu-Jin Cho, "Soft LEGO: Bottom-up Design Platform for Soft Robotics," **2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, 2018, pp. 7513-7520. <br> [[Paper]][Soft LEGO Paper][[Video]][Soft LEGO Video]
 
 Papers Under Review / in Preparation
 ---
@@ -31,15 +31,15 @@ R.1| <font color="#213363"><b>Jaemin Eom</b></font>, Jaehyun Lee, and Kyu-Jin Ch
 Patents
 ---
 
-P.5| Kyu-Jin Cho, <font color="#213363"><b>Jaemin Eom</b></font>, Yuna Yoo, MinJo Park, "Longitudinal Deployable Vacuum Suction Cup," <font color="#17594A"><b>PCT/KR2023/019352</b> </font> (Patent Application, filed on Nov. 28th, 2023). [[site]][Link]
+P.5| Kyu-Jin Cho, <font color="#213363"><b>Jaemin Eom</b></font>, Yuna Yoo, MinJo Park, "Longitudinal Deployable Vacuum Suction Cup," <font color="#17594A"><b>PCT/KR2023/019352</b> </font> (Patent Application, filed on Nov. 28th, 2023).
 
-P.4| Kyu-Jin Cho, Jun-Young Lee, <font color="#213363"><b>Jaemin Eom</b></font>, "Soft Block Unit Comprising Expanding Block and Bending Block," <font color="#17594A"><b>JP Patent 6620257</b></font> issued Nov. 22th, 2019. [[site]][Link]
+P.4| Kyu-Jin Cho, Jun-Young Lee, <font color="#213363"><b>Jaemin Eom</b></font>, "Soft Block Unit Comprising Expanding Block and Bending Block," <font color="#17594A"><b>JP Patent 6620257</b></font> issued Nov. 22th, 2019.
 
-P.3| Kyu-Jin Cho, <font color="#213363"><b>Jaemin Eom</b></font>, Yuna Yoo, MinJo Park, “Longitudinal Deployable Vacuum Suction Cup,” <font color="#17594A"><b>KR Patent 10-2624036</b></font> issued Jan. 8th, 2024. [[site]][Link]
+P.3| Kyu-Jin Cho, <font color="#213363"><b>Jaemin Eom</b></font>, Yuna Yoo, MinJo Park, “Longitudinal Deployable Vacuum Suction Cup,” <font color="#17594A"><b>KR Patent 10-2624036</b></font> issued Jan. 8th, 2024.
 
-P.2| Kyu-Jin Cho, <font color="#213363"><b>Jaemin Eom</b></font>, Sung Yol Yu, Woongbae Kim, “Gripper for Gripping Multi-Object with an Internal Storage,” <font color="#17594A"><b>KR Patent 10-2497956</b></font> issued Feb. 6th, 2023. [[site]][Link]
+P.2| Kyu-Jin Cho, <font color="#213363"><b>Jaemin Eom</b></font>, Sung Yol Yu, Woongbae Kim, “Gripper for Gripping Multi-Object with an Internal Storage,” <font color="#17594A"><b>KR Patent 10-2497956</b></font> issued Feb. 6th, 2023.
 
-P.1| Kyu-Jin Cho, Jun-Young Lee, <font color="#213363"><b>Jaemin Eom</b></font>, “Soft Block Unit Comprising Expanding Block and Bending Block,” <font color="#17594A"><b>KR Patent 101950654</b></font> issued Apr. 14th, 2019. [[site]][Link]
+P.1| Kyu-Jin Cho, Jun-Young Lee, <font color="#213363"><b>Jaemin Eom</b></font>, “Soft Block Unit Comprising Expanding Block and Bending Block,” <font color="#17594A"><b>KR Patent 101950654</b></font> issued Apr. 14th, 2019.
 
 <!-- Other conferences and Workshop Papers
 ---
@@ -95,16 +95,17 @@ A.1| Featured in <font color="#213363"><b>IEEE Spectrum's 'Video Friday'</b></fo
 [MOGrip, Video Friday]: https://spectrum.ieee.org/video-friday-mars-chopper
 [MOGrip, Tech Xplore]: https://techxplore.com/news/2025-01-robotic-gripper-mimics-human-multiple.html
 
-[MOGrip Paper]: https://github.com/JaeminEom/JaeminEom.github.io/blob/main/assets/Publications/SciRo_MOGrip.pdf
+[MOGrip Paper]: https://www.science.org/doi/10.1126/scirobotics.ado3939
 [MOGrip Video]: https://www.youtube.com/watch?v=qFD562zo4Vk
 
-[Chameleon Paper]: https://github.com/JaeminEom/JaeminEom.github.io/blob/main/assets/Publications/RAL_Chameleon.pdf
+[Chameleon Paper]: https://ieeexplore.ieee.org/document/10024348
 [Chameleon Video]: https://www.youtube.com/watch?v=5f0qXYcE3nw
 
-[Dual Morphing Paper]: https://github.com/JaeminEom/JaeminEom.github.io/blob/main/assets/Publications/AIS_Dual_Morphing.pdf
-[Dual Morphing Site]: https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202100176
+[Dual Morphing Paper]: https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202100176
 
-[Customization Paper]: https://github.com/JaeminEom/JaeminEom.github.io/blob/main/assets/Publications/Frontiers_Customization.pdf
-[Customization Site]: https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2020.00114/full
+[Customization Paper]: https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2020.00114/full
 
+[Soft LEGO Paper]: https://ieeexplore.ieee.org/document/8593546
 [Soft LEGO Video]: https://www.youtube.com/watch?v=Uqj2QQZ8PMs
+
+[Dissertation Link]: 
