@@ -8,9 +8,9 @@ author_profile: true
 International Journals <span style="font-size:18px; font-weight:normal">(* denotes equal contribution.)</span>
 ---
 
-J.4| <font color="#213363"><b>Jaemin Eom</b></font>, Sung Yol Yu, Woongbae Kim, Chunghoon Park, Kristine Yoonseo Lee, and Kyu-Jin Cho, "MOGrip: Gripper for multiobject grasping in pick-and-place tasks using translational movements of fingers," <font color="#17594A"><b>Science Robotics (I.F. 26.1)</b></font>, vol. 9, eado3939, 2024. <br> [[Paper]][MOGrip Paper][[Video]][MOGrip Video][[Project Page]][Link]
+J.4| <font color="#213363"><b>Jaemin Eom</b></font>, Sung Yol Yu, Woongbae Kim, Chunghoon Park, Kristine Yoonseo Lee, and Kyu-Jin Cho, "MOGrip: Gripper for multiobject grasping in pick-and-place tasks using translational movements of fingers," <font color="#17594A"><b>Science Robotics (I.F. 26.1)</b></font>, vol. 9, eado3939, 2024. <br> [[Paper]][MOGrip Paper][[Video]][MOGrip Video][[Project Page]][MOGrip Project Page]
 
-J.3| Yuna Yoo*, <font color="#213363"><b>Jaemin Eom*</b></font>, MinJo Park, and Kyu-Jin Cho, "Compliant Suction Gripper with Seamless Deployment and Retraction for Robust Picking against Depth and Tilt Errors," <font color="#17594A"><b>IEEE Robotics and Automation Letters (I.F. 4.6)</b></font>, vol.8, no.3, 2023. **(Co-first author)** <br> [[Paper]][MOGrip Paper][[Video]][Chameleon Video][[Project Page]][Link]
+J.3| Yuna Yoo*, <font color="#213363"><b>Jaemin Eom*</b></font>, MinJo Park, and Kyu-Jin Cho, "Compliant Suction Gripper with Seamless Deployment and Retraction for Robust Picking against Depth and Tilt Errors," <font color="#17594A"><b>IEEE Robotics and Automation Letters (I.F. 4.6)</b></font>, vol.8, no.3, 2023. **(Co-first author)** <br> [[Paper]][Chameleon Paper][[Video]][Chameleon Video][[Project Page]][Chameleon Project Page]
 
 J.2| Woongbae Kim, <font color="#213363"><b>Jaemin Eom</b></font>, and Kyu-Jin Cho, "A Dual-Origami Design that Enables the Quasisequential Deployment and Bending Motion of Soft Robots and Grippers," <font color="#17594A"><b>Advanced Intelligent Systems (I.F. 6.8)</b></font>, vol. 4, no. 3, 2021. <br> [[Paper]][Dual Morphing Paper][[Video]][Link]
 
@@ -77,7 +77,7 @@ O.1| <font color="#213363"><b>Byungchul Kim</b></font>, Daeyoung Lee, Jisuk Kim,
 Dissertation
 ---
 
-T.1| <font color="#213363"><b>Jaemin Eom</b></font>, "Multi-Object Grasping Using Finger-to-Palm Translation for Pick-and-Place Tasks," Seoul National University, Seoul, Korea. [[pdf]][Link]
+T.1| <font color="#213363"><b>Jaemin Eom</b></font>, "Multi-Object Grasping Using Finger-to-Palm Translation for Pick-and-Place Tasks," Seoul National University, Seoul, Korea. [[pdf]][Dissertation Link]
 
 
 International Articles
@@ -97,9 +97,11 @@ A.1| Featured in <font color="#213363"><b>IEEE Spectrum's 'Video Friday'</b></fo
 
 [MOGrip Paper]: https://www.science.org/doi/10.1126/scirobotics.ado3939
 [MOGrip Video]: https://www.youtube.com/watch?v=qFD562zo4Vk
+[MOGrip Project Page]: https://jaemineom.github.io/Project_MOGrip/
 
 [Chameleon Paper]: https://ieeexplore.ieee.org/document/10024348
 [Chameleon Video]: https://www.youtube.com/watch?v=5f0qXYcE3nw
+[Chameleon Project Page]: https://jaemineom.github.io/Project_Chameleon/
 
 [Dual Morphing Paper]: https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202100176
 
@@ -108,4 +110,4 @@ A.1| Featured in <font color="#213363"><b>IEEE Spectrum's 'Video Friday'</b></fo
 [Soft LEGO Paper]: https://ieeexplore.ieee.org/document/8593546
 [Soft LEGO Video]: https://www.youtube.com/watch?v=Uqj2QQZ8PMs
 
-[Dissertation Link]: 
+[Dissertation Link]: https://github.com/JaeminEom/JaeminEom.github.io/blob/main/assets/Publications/Dissertation_JaeminEom.pdf
