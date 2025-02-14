@@ -25,13 +25,17 @@ CV can be downloaded form [here][cv_link].
 
 ## Research Interests
 
-- Robotic Grippers
-- Robotic Hands
-- Soft Robotics
-- Under-actuated Systems
-- Tendon-driven Actuators
-- Manipulator Path Planning
-- Simulation and Control
+<div style="font-size: 20px;">
+<ul>
+<li>Robotic Grippers</li>
+<li>Robotic Hands</li>
+<li>Soft Robotics</li>
+<li>Under-actuated Systems</li>
+<li>Tendon-driven Actuators</li>
+<li>Manipulator Path Planning</li>
+<li>Simulation and Control</li>
+</ul>
+</div>
 
 ## Experience
 
@@ -64,14 +68,16 @@ CV can be downloaded form [here][cv_link].
 
 |Categories|Technical Skills|
 |:---:|:---|
-|Various <br>prototyping <br> experiences|  <span>&#8226;</span>  MOGrip [xx]<br>  <span>&#8226;</span>  Robotic hand<br>  <span>&#8226;</span>  Chameleon gripper [xx]<br>  <span>&#8226;</span>  Experimental setups|
-|Actuator design <br> and control|  <span>&#8226;</span>  Tendon-driven actuators for the under-actuated gripper [xx]<br>  <span>&#8226;</span>  Pneumatic circuit design [xx]<br>  <span>&#8226;</span>  Low-level control  <span>&#8226;</span>  Manipulator path planning|
+|Various <br>prototyping <br> experiences|  <span>&#8226;</span>  [MOGrip][MOGrip Project Page] <br>  <span>&#8226;</span>  Robotic hand<br>  <span>&#8226;</span>  [Chameleon gripper][Chameleon Project Page]<br>  <span>&#8226;</span>  Experimental setups|
+|Actuator design <br> and control|  <span>&#8226;</span>  [Tendon-driven actuators for the under-actuated gripper][MOGrip Project Page]<br>  <span>&#8226;</span>  [Pneumatic circuit design][Chameleon Project Page]<br>  <span>&#8226;</span>  Low-level control  <br><span>&#8226;</span>  Manipulator path planning|
 |Control system <br>prototyping|  <span>&#8226;</span>  ROS<br>  <span>&#8226;</span>  Arduino|
-|Analysis and Simulation|  <span>&#8226;</span>  ABAQUS [xx] <br>  <span>&#8226;</span>  MATLAB|
+|Analysis and Simulation|  <span>&#8226;</span>  ABAQUS <br>  <span>&#8226;</span>  MATLAB|
 |CAD design|  <span>&#8226;</span>  SOLIDWORKS<br>  <span>&#8226;</span>  CATIA|
 |Manufacturing|  <span>&#8226;</span>  Elastomer Molding for Soft Robot Fabrication<br>  <span>&#8226;</span>  Laser cutter<br>  <span>&#8226;</span>  3D printing<br>  <span>&#8226;</span>  Heat press|
 |Circuit design|  <span>&#8226;</span>  Eagle CAD|
 
+[MOGrip Project Page]: https://jaemineom.github.io/Project_MOGrip/
+[Chameleon Project Page]: https://jaemineom.github.io/Project_Chameleon/
 
 ## Scholarship
 
@@ -105,11 +111,11 @@ CV can be downloaded form [here][cv_link].
 |:---:|:---|
 |Sep. 2019 - Dec. 2019|<b><font color="#213363">Teaching Assistant</font></b><br> Dynamics (M2794.001200) <br>Supervisor : Prof. Kyu-Jin Cho <br>Seoul National University|
 |Mar. 2018 - Jun. 2018|<b><font color="#213363">Teaching Assistant</font></b><br>Management in Mechanical Engineering 1 (M2794.004500) <br> Supervisor : Prof. Young-sang Yoo <br>Seoul National University|
-|Jan. 2025 - Present <br> Oct. 2023 - Dec. 2024 <br> Mar. 2021 - Dec. 2022 <br> xx - xx|<b><font color="#213363">B.S Thesis/UROP Tutoring</font></b><br>Led the B.S. Thesis of <b><font color="#213363">one</font></b> undergraduate student (Prof. Kyu-Jin Cho)<br>Led <b><font color="#213363">six</font></b> students for the Undergraduate Research Opportunities (Prof. Kyu-Jin Cho)<br> Seoul National University|
+|Jan. 2025 - Present <br> Feb. 2023 - Dec. 2024 <br> Dec. 2020 - Dec. 2022 <br> Sep. 2018 - Aug. 2019|<b><font color="#213363">B.S Thesis/UROP Tutoring</font></b><br>Led the B.S. Thesis of <b><font color="#213363">one</font></b> undergraduate student (Prof. Kyu-Jin Cho)<br>Led <b><font color="#213363">six</font></b> students for the Undergraduate Research Opportunities (Prof. Kyu-Jin Cho)<br> Seoul National University|
 
 ## Professional Service
 
-Served as a reviewer in SORO, RA-L, ROBOSOFT.
+<span style="font-size: 20px;">Served as a reviewer in Soft Robotics, RA-L, ROBOSOFT.</span>
 
 ## Contact & CV
 
@@ -117,7 +123,7 @@ For any inquires, you can reach me via email: [jaemineom81@gmail.com][email].
 
 CV can be downloaded from [here][cv_link]. 
 
-Update: 2025/02/10
+Update: 2025/02/14
 
 [BRL_link]: https://www.biorobotics.snu.ac.kr/
 [cv_link]: https://github.com/JaeminEom/JaeminEom.github.io/blob/main/assets/CV/Jaemin_Eom_CV.pdf
