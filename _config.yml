@@ -334,6 +334,3 @@ defaults:
       layout: single
       author_profile: true
 
-assets:
-  css:
-    - /assets/css/custom.css
