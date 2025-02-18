@@ -33,12 +33,12 @@ CV can be downloaded form [here][cv_link].
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
     <!-- 왼쪽 GIF -->
-    <div style="flex: 0 0 420px; margin-right: 15px;">
+    <div style="flex: 45%; margin-right: 2%;">
         <img src="assets/Home/MOGrip_Teaser.gif" alt="MOGrip GIF" style="width: 100%;">
     </div>
 
     <!-- 오른쪽 텍스트 -->
-    <div style="font-size: 18px;">
+    <div style="flex: 50%; font-size: 18px;">
         <b>MOGrip: Gripper for multiobject grasping in pick-and-place tasks using translational movements of fingers</b><br>
         <font color="#17594A"><b>Jaemin Eom</b></font>, Sung Yol Yu, Woongbae Kim, Chunghoon Park, Kristine Yoonseo Lee, and Kyu-Jin Cho <br>
         <font color="#17594A"><b>Science Robotics, 2024.</b></font><br> 
@@ -48,14 +48,15 @@ CV can be downloaded form [here][cv_link].
     </div>
 </div>
 
+
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
     <!-- 왼쪽 GIF -->
-    <div style="flex: 0 0 420px; margin-right: 15px;">
+    <div style="flex: 45%; margin-right: 2%;">
         <img src="assets/Home/Chameleon_Teaser.gif" alt="Chaemelon Gripper GIF" style="width: 100%;">
     </div>
 
     <!-- 오른쪽 텍스트 -->
-    <div style="font-size: 18px;">
+    <div style="flex: 50%; font-size: 18px;">
         <b>Compliant Suction Gripper with Seamless Deployment and Retraction for Robust Picking against Depth and Tilt Errors</b><br>
         Yuna Yoo*, <font color="#17594A"><b>Jaemin Eom*</b></font>, MinJo Park, and Kyu-Jin Cho<br>
         <font color="#17594A"><b>IEEE Robotics and Automation Letters, 2023.</b></font><br> 
@@ -64,6 +65,7 @@ CV can be downloaded form [here][cv_link].
         <a href="https://jaemineom.github.io/Project_Chameleon/" target="_blank">Project Page</a>
     </div>
 </div>
+
 
 [MOGrip Paper]: https://www.science.org/doi/10.1126/scirobotics.ado3939
 [MOGrip Video]: https://www.youtube.com/watch?v=qFD562zo4Vk
