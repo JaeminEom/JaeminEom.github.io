@@ -15,7 +15,7 @@ author_profile: true
 
 ## About me
 
-Hello! I am a Ph.D. candidate in the [Biorobotics Lab][BRL_link] at Seoul National University, working with Professor Kyu-Jin Cho, and I expect to graduate in February 2025. After graduation, I will work as a Postdoctorial Researcher at the [Soft Robotics Research Center (SRRC)][SRRC_link] at Seoul National University (SNU), continuing to work with Professor Kyu-Jin Cho in the Department of Mechanical Engineering.
+Hello! I am a Postdoctoral Researcher at the [Soft Robotics Research Center (SRRC)][SRRC_link] in Seoul National University (SNU), working with Professor Kyu-Jin Cho. Prior to joining postdoctoral program, I completed my Ph. D., M.S., and B.S. in Mechanical Engineering from Seoul National University.
 
 You can find more details about me on my [About][About_link] page. Additionally, please visit my [Publications][Publication_link] page for more information about my research. For any inquiries, feel free to contact me via email: [jaemineom81@gmail.com][Email].
 
