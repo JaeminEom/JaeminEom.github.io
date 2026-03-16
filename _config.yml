@@ -115,13 +115,13 @@ analytics:
 author:
   name             : "Jaemin Eom"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Postdoctoral Researcher working with Prof. Kyu-Jin Cho in Seoul National University."
-  location         : "Seoul, Republic of Korea"
-  email            : "jaemineom81@gmail.com"
+  bio              : "Postdoctoral Researcher working with Prof. Josie Hughes in EPFL."
+  location         : "Lausanne, Switzerland"
+  email            : "jaemin.eom@epfl.ch"
   links:
-    - label: "BioRobotics Lab."
+    - label: "CREATE Lab."
       icon: "fas fa-fw fa-link"
-      url: "https://www.biorobotics.snu.ac.kr/"
+      url: "https://www.epfl.ch/labs/create/"
     - label: "Download CV"
       icon: "far fa-file-pdf"
       url: "https://github.com/JaeminEom/JaeminEom.github.io/blob/main/assets/CV/Jaemin_Eom_CV.pdf"
