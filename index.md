@@ -15,7 +15,7 @@ author_profile: true
 
 ## About me
 
-Hello! I am a Postdoctoral Researcher at the [CREATE Lab][Lab_link] in  École polytechnique fédérale de Lausanne (EPFL), working with Professor Josie Hughes. Prior to joining postdoctoral program, I completed my Ph. D., M.S., and B.S. in Mechanical Engineering from Seoul National University.
+Hello! I am a Postdoctoral Researcher at the [CREATE Lab][Lab_link] in  EPFL (École polytechnique fédérale de Lausanne), working with Professor Josie Hughes. Prior to joining postdoctoral program, I completed my Ph. D., M.S., and B.S. in Mechanical Engineering from Seoul National University.
 
 You can find more details about me on my [About][About_link] page. Additionally, please visit my [Publications][Publication_link] page for more information about my research. For any inquiries, feel free to contact me via email: [jaemineom81@gmail.com][Email].
 
