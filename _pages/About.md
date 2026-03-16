@@ -41,7 +41,8 @@ CV can be downloaded form [here][cv_link].
 
 |Preiod|Experience|
 |:---:|:---|
-|Mar. 2025  <br>-<br> Present|<b><font color="#213363"> Postdoctoral Research Associate</font></b><br> Soft Robotics Research Center (SRRC), Biorobotics Lab, Seoul National University <br> Advisor: Prof. Kyu-Jin Cho|
+|Sep. 2025  <br>-<br> Present|<b><font color="#213363"> Postdoctoral Research Associate</font></b><br> CREATE Lab, EPFL <br> Advisor: Prof. Josie Hughes|
+|Mar. 2025  <br>-<br> Aug. 2025|<b><font color="#213363"> Postdoctoral Research Associate</font></b><br> Soft Robotics Research Center (SRRC), Biorobotics Lab, Seoul National University <br> Advisor: Prof. Kyu-Jin Cho|
 
 ## Education
 
