@@ -15,7 +15,7 @@ author_profile: true
 
 ## About me
 
-Hello! I am a Postdoctoral Researcher at the [Soft Robotics Research Center (SRRC)][SRRC_link] in Seoul National University (SNU), working with Professor Kyu-Jin Cho. Prior to joining postdoctoral program, I completed my Ph. D., M.S., and B.S. in Mechanical Engineering from Seoul National University.
+Hello! I am a Postdoctoral Researcher at the [CREATE Lab][Lab_link] in  École polytechnique fédérale de Lausanne (EPFL), working with Professor Josie Hughes. Prior to joining postdoctoral program, I completed my Ph. D., M.S., and B.S. in Mechanical Engineering from Seoul National University.
 
 You can find more details about me on my [About][About_link] page. Additionally, please visit my [Publications][Publication_link] page for more information about my research. For any inquiries, feel free to contact me via email: [jaemineom81@gmail.com][Email].
 
@@ -23,6 +23,7 @@ CV can be downloaded form [here][cv_link].
 
 [BRL_link]: https://www.biorobotics.snu.ac.kr/
 [SRRC_link]: https://www.srrc.snu.ac.kr
+[Lab_link]: https://www.epfl.ch/labs/create/
 [About_link]: /about/
 [Publication_link]: /publications/
 [Email]: mailto:jaemineom81@gmail.com
@@ -88,7 +89,7 @@ You can check my detail informations on my [about][about_link] page; you can als
 CV can be downloaded from [here][cv_link]. 
 
 [Lab_MIT_Link]: https://csail.mit.edu
-[SRRC_link]: https://www.srrc.snu.ac.kr
+[Lab_link]: https://www.epfl.ch/labs/create/
 [Research_link]: /research/
 [publication_link]: /publications/
 [Lab_link]: https://www.srrc.snu.ac.kr/
