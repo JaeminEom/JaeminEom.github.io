@@ -27,13 +27,14 @@ CV can be downloaded form [here][cv_link].
 
 <div style="font-size: 20px;">
 <ul>
-<li>Robotic Grippers</li>
-<li>Robotic Hands</li>
-<li>Soft Robotics</li>
-<li>Under-actuated Systems</li>
-<li>Tendon-driven Actuators</li>
+<li>Computational Design for Robotic Hands</li>
+<li>Physics-Based Simulation and Optimization</li>
+<li>Design and Control of Robotic Grippers</li>
 <li>Manipulator Path Planning</li>
-<li>Simulation and Control</li>
+<li>Teleoperated Systems</li>
+<li>Tendon-driven Mechanisms</li>
+<li>Soft Robotics</li>
+<li>Under-Actuated Systems</li>
 </ul>
 </div>
 
@@ -56,8 +57,11 @@ CV can be downloaded form [here][cv_link].
 
 |Preiod|Research experience|
 |:---:|:---|
-|2024 <br>-<br> Present|<b><font color="#213363">Manipulator path planning for multi-object grasping in declutter problem</font></b><br><span style="padding-left:15px;">&bull; Efficiently solved the decluttering problem by grasping and transporting multiple objects at once. <br><span style="padding-left:15px;">&bull; Proposed an algorithm to find the minimum path for decluttering all given objects.|
-|2024 <br>-<br> Present|<b><font color="#213363">Robotic Hand Design for Multi-Object Grasping</font></b><br><span style="padding-left:15px;">&bull; Designed a robotic hand that sequentially grasps and stores multiple objects, and transports them all at once. <br><span style="padding-left:15px;">&bull; Analyzed finger links' length and joint stiffness for target motion through analytic model and simulation. <br><span style="padding-left:15px;">&bull; Designed the experiments and demonstrations.|
+|2026 <br>-<br> Present|<b><font color="#213363">Computational Design Optimization of a Robotic Hand for Tool Use</font></b><br><span style="padding-left:15px;">&bull; Optimized manufacturing-constrained hand parameters for robust tool use via Bayesian Optimization. <br><span style="padding-left:15px;">&bull; Employed MuJoCo for efficient design space exploration and hardware feasibility validation.|
+|2025 <br>-<br> Present|<b><font color="#213363">LLM-Guided Task Planning for Heterogeneous Bimanual Manipulation</font></b><br><span style="padding-left:15px;">&bull; Leveraged LLMs for high-level task reasoning and distribution between asymmetric end-effectors. <br><span style="padding-left:15px;">&bull; Validate cognitive reasoning and action chunking for complex tasks via teleoperation.|
+|2025 <br>-<br> Present|<b><font color="#213363">Integrated Hand System Development through Industry Collaboration</font></b><br><span style="padding-left:15px;">&bull; Integrated state-of-the-art sensors and motors into a robot hand via industry collaboration. <br><span style="padding-left:15px;">&bull; Troubleshooting engineering issues during the integration phase.|
+|2024 <br>-<br> 2025|<b><font color="#213363">Manipulator path planning for multi-object grasping in declutter problem</font></b><br><span style="padding-left:15px;">&bull; Efficiently solved the decluttering problem by grasping and transporting multiple objects at once. <br><span style="padding-left:15px;">&bull; Proposed an algorithm to find the minimum path for decluttering all given objects.|
+|2024 <br>-<br> 2025|<b><font color="#213363">Robotic Hand Design for Multi-Object Grasping</font></b><br><span style="padding-left:15px;">&bull; Designed a robotic hand that sequentially grasps and stores multiple objects, and transports them all at once. <br><span style="padding-left:15px;">&bull; Analyzed finger links' length and joint stiffness for target motion through analytic model and simulation. <br><span style="padding-left:15px;">&bull; Designed the experiments and demonstrations.|
 |2019 <br>-<br> 2024|<b><font color="#213363">Multi-object grasping using finger-to-palm translation for pick-and-place tasks</font></b><br><span style="padding-left:15px;">&bull; Proposed finger-to-palm translation as a key manipulation skill for multi-object grasping in pick-and-place tasks. <br><span style="padding-left:15px;">&bull; Presented a finger design enabling finger-to-palm translation. <br><span style="padding-left:15px;">&bull; Introduced a soft conveyor palm design capable of storing multiple objects simultaneously.<br><span style="padding-left:15px;">&bull; Designed the experiment, conducted experimental work, and performed demonstrations. <br><span style="padding-left:15px;">&bull; Conducted analytic modeling and ABAQUS simulation.|
 |2020 <br>-<br> 2022|<b><font color="#213363">Compliant suction gripper with seamless deployment and retraction</font></b><br><span style="padding-left:15px;">&bull; Supervised a UROP student and submitted a paper to IEEE Robotics and Automation Letters. <br><span style="padding-left:15px;">&bull; Designed a deployable body of a suction cup. <br><span style="padding-left:15px;">&bull; Proposed a pneumatic circuit design for seamless deployment, picking, and retraction. <br><span style="padding-left:15px;">&bull; Designed the experiments and demonstrations.|
 |2020 <br>-<br> 2022|<b><font color="#213363">Development of a collaborative assistive robot arm utilizing foldable soft robot technology</font></b><br><i>Funded by Ministry of Trade, Industry & Energy</i><br> <span style="padding-left:15px;">&bull; Integrated the developed foldable gripper and the developed robotic arm|
@@ -72,10 +76,10 @@ CV can be downloaded form [here][cv_link].
 
 |Categories|Technical Skills|
 |:---:|:---|
-|Various <br>prototyping <br> experiences|  <span>&#8226;</span>  [MOGrip][MOGrip Project Page] <br>  <span>&#8226;</span>  Robotic hand<br>  <span>&#8226;</span>  [Chameleon gripper][Chameleon Project Page]<br>  <span>&#8226;</span>  Experimental setups|
-|Actuator design <br> and control|  <span>&#8226;</span>  [Tendon-driven actuators for the under-actuated gripper][MOGrip Project Page]<br>  <span>&#8226;</span>  [Pneumatic circuit design][Chameleon Project Page]<br>  <span>&#8226;</span>  Low-level control  <br><span>&#8226;</span>  Manipulator path planning|
-|Analysis and Simulation|  <span>&#8226;</span>  ABAQUS <br>  <span>&#8226;</span>  MATLAB|
-|CAD design|  <span>&#8226;</span>  SOLIDWORKS|
+|Mechanism design <br> and prototyping|  <span>&#8226;</span>  Robotic hand <br>  <span>&#8226;</span>  [MOGrip][MOGrip Project Page] <br>  <span>&#8226;</span>  [Chameleon gripper][Chameleon Project Page]<br>  <span>&#8226;</span>  Experimental setups|
+|Actuator system design <br> and control|  <span>&#8226;</span>  [Tendon-driven actuators for the under-actuated gripper][MOGrip Project Page]<br>  <span>&#8226;</span>  [Pneumatic circuit design][Chameleon Project Page]<br>  <span>&#8226;</span>  Low-level control  <br><span>&#8226;</span>  Manipulator path planning|
+|Analysis and Simulation|  <span>&#8226;</span>  MuJoCo <br>  <span>&#8226;</span>  ABAQUS <br>  <span>&#8226;</span>  MATLAB|
+|CAD design|  <span>&#8226;</span>  SOLIDWORKS <br>  <span>&#8226;</span>  Autodesk Fusion|
 |Manufacturing|  <span>&#8226;</span>  Elastomer Molding for Soft Robot Fabrication<br>  <span>&#8226;</span>  Laser cutter<br>  <span>&#8226;</span>  3D printing<br>  <span>&#8226;</span>  Heat press|
 |Circuit design|  <span>&#8226;</span>  Eagle CAD|
 
@@ -95,6 +99,7 @@ CV can be downloaded form [here][cv_link].
 
 |Preiod|Awards|
 |:---:|:---|
+|May. 2026|<b><font color="#213363">Reviewer of the Year (2025)</font></b> <br> npj Robotics|
 |Apr. 2021|<b><font color="#213363">1st prize winner, RoboSoft 2021 Manipulation Challenge</font></b> <br> IEEE International Conference on Soft Robotics <br><span style="padding-left:15px;">&bull; Team leader|
 |Apr. 2019|<b><font color="#213363">3rd prize winner, RoboSoft 2019 Manipulation Challenge</font></b> <br> IEEE International Conference on Soft Robotics <br><span style="padding-left:15px;">&bull; Team leader|
 
@@ -119,7 +124,7 @@ CV can be downloaded form [here][cv_link].
 
 ## Professional Service
 
-<span style="font-size: 20px;">Served as a reviewer in Soft Robotics, RA-L, ROBOSOFT.</span>
+<span style="font-size: 20px;">Served as a reviewer in Science Robotics, npj Robotics, RA-L, ROBOSOFT.</span>
 
 ## Contact & CV
 
