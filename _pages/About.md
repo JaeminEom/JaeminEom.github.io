@@ -134,7 +134,7 @@ For any inquires, you can reach me via email: [jaemineom81@gmail.com][email].
 
 CV can be downloaded from [here][cv_link]. 
 
-Update: 2025/02/14
+Update: 2026/05/16
 
 [BRL_link]: https://www.biorobotics.snu.ac.kr/
 [cv_link]: https://github.com/JaeminEom/JaeminEom.github.io/blob/main/assets/CV/Jaemin_Eom_CV.pdf
