@@ -24,9 +24,9 @@ C.1| Jun-Young Lee, <font color="#213363"><b>Jaemin Eom</b></font>, Woo-Young Ch
 Papers Under Review / in Preparation
 ---
 
-R.2| <font color="#213363"><b>Jaemin Eom</b></font>, and Kyu-Jin Cho, "Manipulator Path Planning for Multi-Object Grasping in a Declutter Problem," in preparation.
+R.2| <font color="#213363"><b>Jaemin Eom</b></font>, Chunghoon Park, and Kyu-Jin Cho, "Manipulator Path Planning for Multi-Object Grasping in a Declutter Problem," <br> in preparation. [[Project Page]][MOGPlanning Project Page]
 
-R.1| <font color="#213363"><b>Jaemin Eom</b></font>, Jaehyun Lee, and Kyu-Jin Cho, "Robotic Hand Design for Multi-Object Grasping of Column-Shaped Objects," in preparation.
+R.1| <font color="#213363"><b>Jaemin Eom</b></font>, Haewoo Lee, Jaehyun Lee, and Kyu-Jin Cho, "Robotic Hand Design for Multi-Object Grasping of Column-Shaped Objects," <br> in preparation. [[Project Page]][MOGHand Project Page]
 
 Patents
 ---
@@ -91,6 +91,9 @@ A.1| Featured in <font color="#213363"><b>IEEE Spectrum's 'Video Friday'</b></fo
 
 
 [Link]: https://www.biorobotics.snu.ac.kr/
+
+[MOGHand Project Page]: https://moghand.netlify.app/
+[MOGPlanning Project Page]: https://mog-planning.netlify.app/
 
 [MOGrip, Video Friday]: https://spectrum.ieee.org/video-friday-mars-chopper
 [MOGrip, Tech Xplore]: https://techxplore.com/news/2025-01-robotic-gripper-mimics-human-multiple.html
