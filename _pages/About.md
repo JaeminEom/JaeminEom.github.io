@@ -83,7 +83,7 @@ CV can be downloaded form [here][cv_link].
 |Manufacturing|  <span>&#8226;</span>  Elastomer Molding for Soft Robot Fabrication<br>  <span>&#8226;</span>  Laser cutter<br>  <span>&#8226;</span>  3D printing<br>  <span>&#8226;</span>  Heat press|
 |Circuit design|  <span>&#8226;</span>  Eagle CAD|
 
-[MOGHand Project Page] : https://moghand.netlify.app/
+[MOGHand Project Page]: https://moghand.netlify.app/
 [MOGrip Project Page]: https://jaemineom.github.io/Project_MOGrip/
 [Chameleon Project Page]: https://jaemineom.github.io/Project_Chameleon/
 
