@@ -77,7 +77,7 @@ CV can be downloaded form [here][cv_link].
 |Categories|Technical Skills|
 |:---:|:---|
 |Mechanism design <br> and prototyping|  <span>&#8226;</span>  [Robotic hand][MOGHand Project Page] <br>  <span>&#8226;</span>  [MOGrip][MOGrip Project Page] <br>  <span>&#8226;</span>  [Chameleon gripper][Chameleon Project Page]<br>  <span>&#8226;</span>  Experimental setups|
-|Actuator system design <br> and control|  <span>&#8226;</span>  [Tendon-driven actuators for the under-actuated gripper][MOGrip Project Page]<br>  <span>&#8226;</span>  [Pneumatic circuit design][Chameleon Project Page]<br>  <span>&#8226;</span>  Low-level control  <br><span>&#8226;</span>  Manipulator path planning|
+|Actuator system design <br> and control|  <span>&#8226;</span>  [Tendon-driven actuators for the under-actuated gripper][MOGrip Project Page]<br>  <span>&#8226;</span>  [Pneumatic circuit design][Chameleon Project Page]<br>  <span>&#8226;</span>  Manipulator path planning|
 |Analysis and Simulation|  <span>&#8226;</span>  MuJoCo <br>  <span>&#8226;</span>  ABAQUS <br>  <span>&#8226;</span>  MATLAB|
 |CAD design|  <span>&#8226;</span>  SOLIDWORKS <br>  <span>&#8226;</span>  Autodesk Fusion|
 |Manufacturing|  <span>&#8226;</span>  Elastomer Molding for Soft Robot Fabrication<br>  <span>&#8226;</span>  Laser cutter<br>  <span>&#8226;</span>  3D printing<br>  <span>&#8226;</span>  Heat press|
