@@ -30,7 +30,23 @@ CV can be downloaded form [here][cv_link].
 [cv_link]: https://github.com/JaeminEom/JaeminEom.github.io/blob/main/assets/CV/Jaemin_Eom_CV.pdf
 
 
-## Selected Publications <span style="font-size:18px; font-weight:normal">(* denotes equal contribution.)</span>
+## Selected Projects <span style="font-size:18px; font-weight:normal">(* denotes equal contribution.)</span>
+
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+    <!-- 왼쪽 GIF -->
+    <div style="flex: 45%; margin-right: 2%;">
+        <img src="assets/Home/Mog_Hand_x2.gif" alt="Mog_Hand GIF" style="width: 100%;">
+    </div>
+
+    <!-- 오른쪽 텍스트 -->
+    <div style="flex: 50%; font-size: 18px;">
+        <b>MOGHand: Robotic Hand Design for Multi-Object Grasping of Column-Shaped Objects</b><br>
+        <font color="#17594A"><b>Jaemin Eom</b></font>, Haewoo Lee, Jaehyun Lee, and Kyu-Jin Cho <br>
+        <b>Paper in Preparation.</b><br> 
+        <a href="https://moghand.netlify.app/" target="_blank">Project Page</a>
+    </div>
+</div>
+
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
     <!-- 왼쪽 GIF -->
