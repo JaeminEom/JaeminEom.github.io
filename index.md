@@ -47,7 +47,6 @@ CV can be downloaded form [here][cv_link].
     </div>
 </div>
 
-
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
     <!-- 왼쪽 GIF -->
     <div style="flex: 45%; margin-right: 2%;">
@@ -65,6 +64,20 @@ CV can be downloaded form [here][cv_link].
     </div>
 </div>
 
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+    <!-- 왼쪽 GIF -->
+    <div style="flex: 45%; margin-right: 2%;">
+        <img src="assets/Home/TSP_Store_16x.gif" alt="TSP_Store GIF" style="width: 100%;">
+    </div>
+
+    <!-- 오른쪽 텍스트 -->
+    <div style="flex: 50%; font-size: 18px;">
+        <b>Manipulator Path Planning for Multi-Object Grasping in a Declutter Problem</b><br>
+        <font color="#17594A"><b>Jaemin Eom</b></font>, Chunghoon Park, and Kyu-Jin Cho <br>
+        <b>Paper in Preparation.</b><br> 
+        <a href="https://mog-planning.netlify.app/" target="_blank">Project Page</a>
+    </div>
+</div>
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
     <!-- 왼쪽 GIF -->
